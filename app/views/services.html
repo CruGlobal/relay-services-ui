@@ -1,0 +1,32 @@
+<div class="hero-unit">
+
+    <div class="hero-unit">
+        <h1>Relay Services</h1>
+
+        <p>Administrative app for Relay admins</p>
+    </div>
+    <div class="well">
+        <div class="row-fluid">
+            <div class="span4">
+                <h2>Reconcile PSHR Staff</h2>
+
+                <p>Use this feature to reconcile staff from PSHR to Relay.</p>
+            </div>
+            <div class="span8">
+                <form class="form-horizontal" ng-submit="reconcileEmployee()">
+                    <div class="control-group">
+                        <div class="controls">
+                            <input type="text" placeholder="000123457" data-ng-model="emplid">
+                        </div>
+                    </div>
+                    <div class="control-group">
+                        <div class="controls">
+                            <button class="btn btn-primary"><i class="icon-cloud-upload"></i>Reconcile Employee</button>
+                        </div>
+                    </div>
+                </form>
+            </div>
+        </div>
+        <pre>{{ response | json }}</pre>
+    </div>
+</div>
