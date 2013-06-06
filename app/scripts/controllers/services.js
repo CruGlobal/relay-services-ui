@@ -24,6 +24,7 @@ var servicesController =
         function ($scope, ServicesFactory) {
           $scope.reconcileEmployee = function()
           {
+            $scope.response = 'reconciliation attempt in progress ...';
             ServicesFactory.reconcileEmployee($scope.emplid, $scope);
           };
          };
