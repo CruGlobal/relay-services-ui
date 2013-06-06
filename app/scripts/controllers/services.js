@@ -15,7 +15,7 @@ var servicesFactory =
         function ($http) {
             var factory = {};
             factory.reconcileEmployee = function(emplid, $scope) {
-                $http.put(url, 'emplid=' + emplid).success(function(data) { $scope.response = data });
+                $http.put(url, 'emplid=' + emplid).success(function(data) { $scope.response = data; });
             };
             return factory;
         };
