@@ -11,4 +11,4 @@ Deploy Procedures:
 4. cd dist
 5. jar cvf ../app-relay-services.war .
 6. cd ..
-7. scp app-relay-services.war <user> @ <target machine>:<jboss app server deploy folder>
+7. scp app-relay-services.war <user> at <target machine>:<jboss app server deploy folder>
