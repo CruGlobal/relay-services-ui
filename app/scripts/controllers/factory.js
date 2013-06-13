@@ -1,6 +1,6 @@
 'use strict';
 
-relayServicesApplication.factory('ServicesFactory', function ($http) {
+relayServicesApplication.factory('ReconciliationService', function ($http) {
     return {
      reconcileEmployee: function(emplid, $scope) {
             var updaterest = '/pshr-listener/rest/employee/update/';
