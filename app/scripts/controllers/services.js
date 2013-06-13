@@ -1,12 +1,10 @@
 'use strict';
 
-var servicesController =
-    function ($scope, ServicesFactory) {
-        $scope.reconcileEmployee =
-            function() {
-                $scope.response = 'reconciliation in progress ...';
-                ServicesFactory.reconcileEmployee($scope.emplid, $scope);
-            };
-    };
-
-relayServicesApplication.controller('ServicesCtrl', servicesController);
+relayServicesApplication.controller('ServicesCtrl', function ($scope, ServicesFactory) {
+    $scope.reconcileEmployee =
+        function() {
+            $scope.response = 'reconciliation of employee id ' + $scope.emplid + ' in progress ...';
+            ServicesFactory.reconcileEmployee($scope.emplid, $scope);
+        };
+    }
+);

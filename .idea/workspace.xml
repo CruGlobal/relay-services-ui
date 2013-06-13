@@ -5,7 +5,7 @@
     <ignored path="relay-services.iws" />
     <ignored path=".idea/workspace.xml" />
     <file path="$PROJECT_DIR$/../old/relay-services2/app/scripts/controllers/services.js" changelist="a242fadf-4bfc-439d-b86f-261ae061d826" time="1369406147299" ignored="false" />
-    <file path="/services.js" changelist="a242fadf-4bfc-439d-b86f-261ae061d826" time="1371154135739" ignored="false" />
+    <file path="/services.js" changelist="a242fadf-4bfc-439d-b86f-261ae061d826" time="1371156521990" ignored="false" />
     <file path="/Dummy.txt" changelist="a242fadf-4bfc-439d-b86f-261ae061d826" time="1371068442983" ignored="false" />
     <file path="/services.html" changelist="a242fadf-4bfc-439d-b86f-261ae061d826" time="1371153631743" ignored="false" />
     <file path="$APPLICATION_HOME_DIR$/lib/idea.jar!/resources/relaxng.rng" changelist="a242fadf-4bfc-439d-b86f-261ae061d826" time="1370975711474" ignored="false" />
@@ -14,7 +14,7 @@
     <file path="/a.dummy" changelist="a242fadf-4bfc-439d-b86f-261ae061d826" time="1371068909568" ignored="false" />
     <file path="/app.js" changelist="a242fadf-4bfc-439d-b86f-261ae061d826" time="1371153354683" ignored="false" />
     <file path="/index.html" changelist="a242fadf-4bfc-439d-b86f-261ae061d826" time="1371154378663" ignored="false" />
-    <file path="/factory.js" changelist="a242fadf-4bfc-439d-b86f-261ae061d826" time="1371155342031" ignored="false" />
+    <file path="/factory.js" changelist="a242fadf-4bfc-439d-b86f-261ae061d826" time="1371156859769" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -74,26 +74,7 @@
     <favorites_list name="relay-services" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file leaf-file-name="services.js" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/scripts/controllers/services.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="12" column="0" selection-start="379" selection-end="379" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="factory.js" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/app/scripts/controllers/factory.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="3" column="30" selection-start="165" selection-end="165" vertical-scroll-proportion="0.048543688">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf />
   </component>
   <component name="FindManager">
     <FindUsagesManager>
@@ -104,10 +85,10 @@
     <option name="changedFiles">
       <list>
         <option value="$PROJECT_DIR$/Gruntfile.js" />
-        <option value="$PROJECT_DIR$/app/views/services.html" />
-        <option value="$PROJECT_DIR$/app/scripts/controllers/services.js" />
         <option value="$PROJECT_DIR$/app/index.html" />
         <option value="$PROJECT_DIR$/app/scripts/app.js" />
+        <option value="$PROJECT_DIR$/app/views/services.html" />
+        <option value="$PROJECT_DIR$/app/scripts/controllers/services.js" />
         <option value="$PROJECT_DIR$/app/scripts/controllers/factory.js" />
       </list>
     </option>
@@ -235,12 +216,12 @@
           </PATH>
         </subPane>
       </pane>
-      <pane id="PackagesPane">
-        <subPane />
-      </pane>
       <pane id="Scope">
         <subPane subId="Project Files" />
         <subPane subId="All" />
+      </pane>
+      <pane id="PackagesPane">
+        <subPane />
       </pane>
     </panes>
   </component>
@@ -274,19 +255,6 @@
       <option name="PORT" value="5005" />
       <method />
     </configuration>
-    <configuration default="true" type="Applet" factoryName="Applet">
-      <module name="" />
-      <option name="MAIN_CLASS_NAME" />
-      <option name="HTML_FILE_NAME" />
-      <option name="HTML_USED" value="false" />
-      <option name="WIDTH" value="400" />
-      <option name="HEIGHT" value="300" />
-      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
-      <option name="VM_PARAMETERS" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <method />
-    </configuration>
     <configuration default="true" type="TestNG" factoryName="TestNG">
       <module name="" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
@@ -312,6 +280,19 @@
       <envs />
       <properties />
       <listeners />
+      <method />
+    </configuration>
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <module name="" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="HTML_FILE_NAME" />
+      <option name="HTML_USED" value="false" />
+      <option name="WIDTH" value="400" />
+      <option name="HEIGHT" value="300" />
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <option name="VM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
       <method />
     </configuration>
     <configuration default="true" type="Application" factoryName="Application">
@@ -402,7 +383,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="22" width="1920" height="1075" extended-state="6" />
-    <editor active="true" />
+    <editor active="false" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="JetGradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -416,7 +397,7 @@
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.2497332" sideWeight="0.6701031" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.2497332" sideWeight="0.6701031" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -555,37 +536,37 @@
         <state line="2" column="16" selection-start="31" selection-end="31" vertical-scroll-proportion="0.048231512" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/scripts/app.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="17" column="0" selection-start="474" selection-end="474" vertical-scroll-proportion="0.27508092">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/app/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="38" column="44" selection-start="1830" selection-end="1837" vertical-scroll-proportion="0.64044946">
+        <state line="16" column="32" selection-start="726" selection-end="742" vertical-scroll-proportion="0.26966292">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/views/services.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="18" column="45" selection-start="631" selection-end="631" vertical-scroll-proportion="0.29900333">
+        <state line="29" column="31" selection-start="1098" selection-end="1102" vertical-scroll-proportion="0.48172757">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/scripts/controllers/services.js">
+    <entry file="file://$PROJECT_DIR$/app/scripts/app.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="12" column="0" selection-start="379" selection-end="379" vertical-scroll-proportion="0.0">
+        <state line="8" column="37" selection-start="250" selection-end="262" vertical-scroll-proportion="0.12944984">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/scripts/controllers/factory.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="3" column="30" selection-start="165" selection-end="165" vertical-scroll-proportion="0.048543688">
+        <state line="5" column="30" selection-start="180" selection-end="180" vertical-scroll-proportion="0.080906145">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/scripts/controllers/services.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="9" column="0" selection-start="344" selection-end="344" vertical-scroll-proportion="0.14563107">
           <folding />
         </state>
       </provider>

@@ -1,3 +1,5 @@
+'use strict';
+
 relayServicesApplication.factory('ServicesFactory', function ($http) {
     return {
      reconcileEmployee: function(emplid, $scope) {
