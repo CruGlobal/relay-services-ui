@@ -5,16 +5,16 @@
     <ignored path="relay-services.iws" />
     <ignored path=".idea/workspace.xml" />
     <file path="$PROJECT_DIR$/../old/relay-services2/app/scripts/controllers/services.js" changelist="a242fadf-4bfc-439d-b86f-261ae061d826" time="1369406147299" ignored="false" />
-    <file path="/services.js" changelist="a242fadf-4bfc-439d-b86f-261ae061d826" time="1371157332022" ignored="false" />
+    <file path="/services.js" changelist="a242fadf-4bfc-439d-b86f-261ae061d826" time="1371160830736" ignored="false" />
     <file path="/Dummy.txt" changelist="a242fadf-4bfc-439d-b86f-261ae061d826" time="1371068442983" ignored="false" />
     <file path="/services.html" changelist="a242fadf-4bfc-439d-b86f-261ae061d826" time="1371153631743" ignored="false" />
     <file path="$APPLICATION_HOME_DIR$/lib/idea.jar!/resources/relaxng.rng" changelist="a242fadf-4bfc-439d-b86f-261ae061d826" time="1370975711474" ignored="false" />
     <file path="$APPLICATION_HOME_DIR$/lib/idea.jar!/standardSchemas/xhtml1-frameset.xsd" changelist="a242fadf-4bfc-439d-b86f-261ae061d826" time="1370975711474" ignored="false" />
     <file path="$APPLICATION_HOME_DIR$/plugins/xpath/lib/xpath.jar!/org/intellij/lang/xpath/xslt/resources/documentation.xml" changelist="a242fadf-4bfc-439d-b86f-261ae061d826" time="1370975711474" ignored="false" />
-    <file path="/a.dummy" changelist="a242fadf-4bfc-439d-b86f-261ae061d826" time="1371068909568" ignored="false" />
+    <file path="/a.dummy" changelist="a242fadf-4bfc-439d-b86f-261ae061d826" time="1371160751294" ignored="false" />
     <file path="/app.js" changelist="a242fadf-4bfc-439d-b86f-261ae061d826" time="1371153354683" ignored="false" />
     <file path="/index.html" changelist="a242fadf-4bfc-439d-b86f-261ae061d826" time="1371154378663" ignored="false" />
-    <file path="/factory.js" changelist="a242fadf-4bfc-439d-b86f-261ae061d826" time="1371157256874" ignored="false" />
+    <file path="/factory.js" changelist="a242fadf-4bfc-439d-b86f-261ae061d826" time="1371161046410" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -74,26 +74,7 @@
     <favorites_list name="relay-services" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file leaf-file-name="services.js" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/scripts/controllers/services.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="6" column="33" selection-start="296" selection-end="296" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="factory.js" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/app/scripts/controllers/factory.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="5" column="31" selection-start="187" selection-end="187" vertical-scroll-proportion="0.080906145">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf />
   </component>
   <component name="FindManager">
     <FindUsagesManager>
@@ -402,11 +383,12 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="22" width="1920" height="1075" extended-state="6" />
-    <editor active="true" />
+    <editor active="false" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="JetGradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3298969" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3298969" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
@@ -416,11 +398,10 @@
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.2497332" sideWeight="0.6701031" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.2497332" sideWeight="0.6701031" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3298969" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
     </layout>
@@ -576,16 +557,16 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/scripts/controllers/services.js">
+    <entry file="file://$PROJECT_DIR$/app/scripts/controllers/factory.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="6" column="33" selection-start="296" selection-end="296" vertical-scroll-proportion="0.0">
+        <state line="5" column="0" selection-start="173" selection-end="173" vertical-scroll-proportion="0.080906145">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/scripts/controllers/factory.js">
+    <entry file="file://$PROJECT_DIR$/app/scripts/controllers/services.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="5" column="31" selection-start="187" selection-end="187" vertical-scroll-proportion="0.080906145">
+        <state line="4" column="20" selection-start="181" selection-end="181" vertical-scroll-proportion="0.06472492">
           <folding />
         </state>
       </provider>

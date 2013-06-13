@@ -1,10 +1,9 @@
 'use strict';
 
-relayServicesApplication.controller('ServicesCtrl', function ($scope, ReconciliationService) {
-    $scope.reconcileEmployee =
+relayServicesApplication.controller('ServicesCtrl', ['$scope', 'ReconciliationService', function (model, service) {
+    model.reconcileEmployee =
         function() {
-            $scope.response = 'reconciliation of employee id ' + $scope.emplid + ' in progress ...';
-            ReconciliationService.reconcileEmployee($scope.emplid, $scope);
+            model.response = 'reconciliation of employee id ' + model.emplid + ' in progress ...';
+            service.reconcileEmployee(model.emplid, model);
         };
-    }
-);
+    }]);
