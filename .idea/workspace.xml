@@ -5,7 +5,11 @@
     <ignored path="relay-services.iws" />
     <ignored path=".idea/workspace.xml" />
     <file path="$PROJECT_DIR$/../old/relay-services2/app/scripts/controllers/services.js" changelist="a242fadf-4bfc-439d-b86f-261ae061d826" time="1369406147299" ignored="false" />
+<<<<<<< HEAD
     <file path="/services.js" changelist="a242fadf-4bfc-439d-b86f-261ae061d826" time="1371160830736" ignored="false" />
+=======
+    <file path="/services.js" changelist="a242fadf-4bfc-439d-b86f-261ae061d826" time="1371156521990" ignored="false" />
+>>>>>>> parent of fb1fac5... refactoring
     <file path="/Dummy.txt" changelist="a242fadf-4bfc-439d-b86f-261ae061d826" time="1371068442983" ignored="false" />
     <file path="/services.html" changelist="a242fadf-4bfc-439d-b86f-261ae061d826" time="1371153631743" ignored="false" />
     <file path="$APPLICATION_HOME_DIR$/lib/idea.jar!/resources/relaxng.rng" changelist="a242fadf-4bfc-439d-b86f-261ae061d826" time="1370975711474" ignored="false" />
@@ -14,7 +18,11 @@
     <file path="/a.dummy" changelist="a242fadf-4bfc-439d-b86f-261ae061d826" time="1371160751294" ignored="false" />
     <file path="/app.js" changelist="a242fadf-4bfc-439d-b86f-261ae061d826" time="1371153354683" ignored="false" />
     <file path="/index.html" changelist="a242fadf-4bfc-439d-b86f-261ae061d826" time="1371154378663" ignored="false" />
+<<<<<<< HEAD
     <file path="/factory.js" changelist="a242fadf-4bfc-439d-b86f-261ae061d826" time="1371161046410" ignored="false" />
+=======
+    <file path="/factory.js" changelist="a242fadf-4bfc-439d-b86f-261ae061d826" time="1371156859769" ignored="false" />
+>>>>>>> parent of fb1fac5... refactoring
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -559,14 +567,22 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/app/scripts/controllers/factory.js">
       <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
         <state line="5" column="0" selection-start="173" selection-end="173" vertical-scroll-proportion="0.080906145">
+=======
+        <state line="5" column="30" selection-start="180" selection-end="180" vertical-scroll-proportion="0.080906145">
+>>>>>>> parent of fb1fac5... refactoring
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/scripts/controllers/services.js">
       <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
         <state line="4" column="20" selection-start="181" selection-end="181" vertical-scroll-proportion="0.06472492">
+=======
+        <state line="9" column="0" selection-start="344" selection-end="344" vertical-scroll-proportion="0.14563107">
+>>>>>>> parent of fb1fac5... refactoring
           <folding />
         </state>
       </provider>
