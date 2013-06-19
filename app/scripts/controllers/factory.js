@@ -6,7 +6,7 @@ relayServicesApplication.factory('ServicesFactory', function ($http) {
 
                 var updateUrl = '/pshr-listener/rest/employee/update/';
 
-                http.put(updateUrl, 'emplid=' + emplid).success(function(data) { $scope.response = data; });
+                $http.put(updateUrl, 'emplid=' + emplid).success(function(data) { $scope.response = data; });
             }
         };
-    }]);
+    });

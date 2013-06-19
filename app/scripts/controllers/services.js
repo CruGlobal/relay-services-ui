@@ -6,4 +6,4 @@ relayServicesApplication.controller('ServicesCtrl', function ($scope, ServicesFa
             $scope.response = 'reconciliation of employee id ' + $scope.emplid + ' in progress ...';
             ServicesFactory.reconcileEmployee($scope.emplid, $scope);
         };
-    }]);
+    });
