@@ -1,10 +1,6 @@
 'use strict';
 
-<<<<<<< HEAD
-relayServicesApplication.factory('ReconciliationService', [ '$http', function (http) {
-=======
 relayServicesApplication.factory('ServicesFactory', function ($http) {
->>>>>>> parent of fb1fac5... refactoring
     return {
             reconcileEmployee: function(emplid, $scope) {
 

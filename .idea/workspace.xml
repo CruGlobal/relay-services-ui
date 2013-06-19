@@ -5,11 +5,7 @@
     <ignored path="relay-services.iws" />
     <ignored path=".idea/workspace.xml" />
     <file path="$PROJECT_DIR$/../old/relay-services2/app/scripts/controllers/services.js" changelist="a242fadf-4bfc-439d-b86f-261ae061d826" time="1369406147299" ignored="false" />
-<<<<<<< HEAD
-    <file path="/services.js" changelist="a242fadf-4bfc-439d-b86f-261ae061d826" time="1371160830736" ignored="false" />
-=======
     <file path="/services.js" changelist="a242fadf-4bfc-439d-b86f-261ae061d826" time="1371156521990" ignored="false" />
->>>>>>> parent of fb1fac5... refactoring
     <file path="/Dummy.txt" changelist="a242fadf-4bfc-439d-b86f-261ae061d826" time="1371068442983" ignored="false" />
     <file path="/services.html" changelist="a242fadf-4bfc-439d-b86f-261ae061d826" time="1371153631743" ignored="false" />
     <file path="$APPLICATION_HOME_DIR$/lib/idea.jar!/resources/relaxng.rng" changelist="a242fadf-4bfc-439d-b86f-261ae061d826" time="1370975711474" ignored="false" />
@@ -18,11 +14,7 @@
     <file path="/a.dummy" changelist="a242fadf-4bfc-439d-b86f-261ae061d826" time="1371160751294" ignored="false" />
     <file path="/app.js" changelist="a242fadf-4bfc-439d-b86f-261ae061d826" time="1371153354683" ignored="false" />
     <file path="/index.html" changelist="a242fadf-4bfc-439d-b86f-261ae061d826" time="1371154378663" ignored="false" />
-<<<<<<< HEAD
-    <file path="/factory.js" changelist="a242fadf-4bfc-439d-b86f-261ae061d826" time="1371161046410" ignored="false" />
-=======
     <file path="/factory.js" changelist="a242fadf-4bfc-439d-b86f-261ae061d826" time="1371156859769" ignored="false" />
->>>>>>> parent of fb1fac5... refactoring
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -37,7 +29,7 @@
     <disable_hints />
   </component>
   <component name="DebuggerManager">
-    <breakpoint_any default_suspend_policy="SuspendAll" default_condition_enabled="true">
+    <breakpoint_any>
       <breakpoint>
         <option name="NOTIFY_CAUGHT" value="true" />
         <option name="NOTIFY_UNCAUGHT" value="true" />
@@ -73,7 +65,6 @@
         <option name="LOG_MESSAGE" value="" />
       </breakpoint>
     </breakpoint_any>
-    <ui_properties default_suspend_policy="SuspendAll" default_condition_enabled="true" />
     <breakpoint_rules />
     <ui_properties />
   </component>
@@ -263,6 +254,19 @@
       <option name="PORT" value="5005" />
       <method />
     </configuration>
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <module name="" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="HTML_FILE_NAME" />
+      <option name="HTML_USED" value="false" />
+      <option name="WIDTH" value="400" />
+      <option name="HEIGHT" value="300" />
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <option name="VM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <method />
+    </configuration>
     <configuration default="true" type="TestNG" factoryName="TestNG">
       <module name="" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
@@ -288,19 +292,6 @@
       <envs />
       <properties />
       <listeners />
-      <method />
-    </configuration>
-    <configuration default="true" type="Applet" factoryName="Applet">
-      <module name="" />
-      <option name="MAIN_CLASS_NAME" />
-      <option name="HTML_FILE_NAME" />
-      <option name="HTML_USED" value="false" />
-      <option name="WIDTH" value="400" />
-      <option name="HEIGHT" value="300" />
-      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
-      <option name="VM_PARAMETERS" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
       <method />
     </configuration>
     <configuration default="true" type="Application" factoryName="Application">
@@ -390,13 +381,11 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="22" width="1920" height="1075" extended-state="6" />
+    <frame x="0" y="22" width="1920" height="1075" extended-state="0" />
     <editor active="false" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="JetGradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3298969" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3298969" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
@@ -409,7 +398,9 @@
       <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.2497332" sideWeight="0.6701031" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3298969" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
     </layout>
@@ -493,9 +484,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/app/scripts/controllers/services.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="8" column="0" selection-start="220" selection-end="220" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
+        <state line="8" column="0" selection-start="220" selection-end="220" vertical-scroll-proportion="0.0" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/scripts/app.js">
@@ -512,9 +501,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/app/scripts/controllers/services.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="8" column="19" selection-start="239" selection-end="239" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
+        <state line="8" column="19" selection-start="239" selection-end="239" vertical-scroll-proportion="0.0" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/component.json">
@@ -560,31 +547,17 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/app/scripts/app.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="8" column="37" selection-start="250" selection-end="262" vertical-scroll-proportion="0.12944984">
-          <folding />
-        </state>
+        <state line="8" column="37" selection-start="250" selection-end="262" vertical-scroll-proportion="0.12944984" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/scripts/controllers/factory.js">
       <provider selected="true" editor-type-id="text-editor">
-<<<<<<< HEAD
-        <state line="5" column="0" selection-start="173" selection-end="173" vertical-scroll-proportion="0.080906145">
-=======
-        <state line="5" column="30" selection-start="180" selection-end="180" vertical-scroll-proportion="0.080906145">
->>>>>>> parent of fb1fac5... refactoring
-          <folding />
-        </state>
+        <state line="5" column="30" selection-start="180" selection-end="180" vertical-scroll-proportion="0.080906145" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/scripts/controllers/services.js">
       <provider selected="true" editor-type-id="text-editor">
-<<<<<<< HEAD
-        <state line="4" column="20" selection-start="181" selection-end="181" vertical-scroll-proportion="0.06472492">
-=======
-        <state line="9" column="0" selection-start="344" selection-end="344" vertical-scroll-proportion="0.14563107">
->>>>>>> parent of fb1fac5... refactoring
-          <folding />
-        </state>
+        <state line="9" column="0" selection-start="344" selection-end="344" vertical-scroll-proportion="0.14563107" />
       </provider>
     </entry>
   </component>
