@@ -1,6 +1,6 @@
 'use strict';
 
-relayServicesApplication.factory('ServicesFactory', function ($http) {
+angular.module('relayServicesApp').factory('ServicesFactory', function ($http) {
     return {
             reconcileEmployee: function(emplid, $scope) {
 
